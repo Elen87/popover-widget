@@ -1,9 +1,9 @@
 # Домашнее задание к занятию "Работа с HTML-формами"
 
-[![Deploy to GitHub Pages](https://github.com/YOUR_USERNAME/popover-widget/actions/workflows/deploy.yml/badge.svg)](https://github.com/YOUR_USERNAME/popover-widget/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/Elen87/popover-widget/actions/workflows/deploy.yml/badge.svg)](https://github.com/Elen87/popover-widget/actions/workflows/deploy.yml)
 
 
-🔗 [https://YOUR_USERNAME.github.io/popover-widget/](https://YOUR_USERNAME.github.io/popover-widget/)
+🔗 [https://Elen87.github.io/popover-widget/](https://Elen87.github.io/popover-widget/)
 
 Правила сдачи задания:
 1. **Важно**: в рамках этого ДЗ вы можете использовать любой пакетный менеджер
